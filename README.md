@@ -1,2 +1,2 @@
 # HKPropertyWebScraper
-Webscraper to Collect Hong Kong Property Listing Data with EDA
+Webscraper to Collect Hong Kong Property (HKP) Listing Data and Perform Exploratory Data Analysis (EDA)
